@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {},
   "dependencies": {
+    "largest-package": "^21.0.0",
     "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0"
